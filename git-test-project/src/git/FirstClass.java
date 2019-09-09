@@ -17,6 +17,7 @@ public class FirstClass {
         int i = 0;
         i += 10;
         System.out.println(i);
+        // test 方法
     }
 
 }
